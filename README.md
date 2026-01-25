@@ -1,12 +1,20 @@
 ### Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yang-Hyeon-Seo&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yang-Hyeon-Seo&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Yang-Hyeon-Seo"
+  width="600"
+  height="300"
+/>
+</a>
+
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yang-Hyeon-Seo&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Yang-Hyeon-Seo?pet-id=775946535188117946"
     width="600"
     height="120"
   />
-</a>
+</a> -->
   
 <!--
 **YangHyeonS/YangHyeonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
